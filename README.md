@@ -8,7 +8,7 @@ http://wgetsnaps.github.io/nyc.gov--nypd-videos/html/nypd/html/pr/videos.shtml.h
 This NYPD public relations video site and its bespoke Flash video player is a true gem of pre-iPhone web development. With __wget__ and __sed__ (and other Bash hackery), I was able to copy the source media files and rewire the Flash player so that it reads from the mirror, ensuring that this piece of jazzy police video work will not disappear in the next nyc.gov redesign.
 
 
-<a href="http://wgetsnaps.github.io/nyc.gov--nypd-videos/html/nypd/html/pr/videos.shtml.html"><img src="nypd-pressroom-videos-page.jpg" alt="nypd video pr front page screenshot"></a>
+<a href="http://wgetsnaps.github.io/nyc.gov--nypd-videos/html/nypd/html/pr/videos.shtml.html"><img src="meta/images/nypd-pressroom-videos-page.jpg" alt="nypd video pr front page screenshot"></a>
 
 
 This repository is a mirror of the following site:
