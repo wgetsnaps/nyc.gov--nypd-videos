@@ -1,0 +1,114 @@
+﻿body, p, td, div, li { color: #687fac;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+
+#col3_content {background-color:#f2f4f8;}
+#col3_content .rCol_module {padding-bottom:10px;width:180px;}
+#col3_content .rCol_header {background:url(http://www.nyc.gov/html/nypd/includes/site_images/nav/section_header_rightcol.gif) center center no-repeat;color:#fff;font-weight:bold;line-height:25px;padding-left:8px;}
+#col3_content .rCol_content {background-color:#e6eaf2;border-bottom-right-radius:3px;border-bottom-left-radius:3px;margin:0 5px;padding:5px 5px 10px;}
+
+#main_content .mod_header {background-image:url(http://www.nyc.gov/html/nypd/includes/site_images/headers/home_colheader_wide.jpg);color:#fff;font-weight:bold;height:35px;line-height:35px;padding-left:8px;}
+#main_content .commissioners_corner {border:#aaa 1px solid;border-top:#315C99 1px solid;padding:10px;margin-bottom:15px;width:345px;}
+#main_content .commissioners_corner .cc_header {background:url(http://www.nyc.gov/html/nypd/images/administration/commissioners_corner_photo.png) no-repeat top left;height:50px;margin-bottom:8px;padding-left:55px;}
+#main_content .commissioners_corner .cc_header .page_title {color: #000;font-size: 14px;height: 32px;line-height: 16px;}
+#main_content .commissioners_corner .cc_header .headline {text-align: right;height: 18px;line-height: 16px;}
+#main_content .commissioners_corner .cc_header .caption {display: inline-block;font-size: 9px;width: 90px;}
+
+.page_title { color: #a0070f;font-weight: bold;font-size: 14px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.page_subtitle { color: #a0070f;font-size: 14px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.area_header { color: #000000;font-weight: bold;font-size: 14px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.headline { color: #355490;font-weight: bold;font-size: 12px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.bodytext { color: #687fac;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.bodytextbold { color: #355490;font-weight: bold;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+.bodytextboldital  { color: #355490;font-style: italic;font-weight: bold;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+.caption { color: #666666;font-style: italic;font-size: 9px;line-height: 11px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.module_header { color: #494b4c;font-weight: bold;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.module_subheader { color: #a0070f;font-weight: bold;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.module_bodytext { color: #355490;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+.module_bodytextlight { color: #9aa7c9;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.module_bodytextbold { color: #494b4c;font-weight: bold;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+a.module_link { color: #355490;font-size: 10px;line-height: normal;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none }
+.highlight_bodytext { color: #a0070f;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.highlight_bodytext_ital { color: #a0070f;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none ;font-style: italic}
+.highlight_bodytextbold { color: #a0070f;font-weight: bold;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+.highlight_bodytextbold_large { color: #a0070f;font-weight: bold;font-size: 12px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+.footer_header { color: #9aa7c9;font-weight: bold;font-size: 10px;line-height: 13px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+.footer_text { color: #9aa7c9;font-size: 10px;line-height: 13px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+
+a.nav_topsection { color: #d9d9d9;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none }
+a.nav_topsection:link { color: #d9d9d9;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none }
+a.nav_topsection:visited { color: #d9d9d9;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none } 
+a.nav_topsection:hover { color: #fef0b6;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none }
+a.nav_topsection:active { color: #d9d9d9;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none } 
+a.nav_topsection_active { color: #fef0b6;font-weight: bold;font-size: 10px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+
+a.nav_section { color: #ffffff;font-size: 12px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none }
+a.nav_section:link { color: #ffffff;font-size: 12px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none }
+a.nav_section:visited { color: #ffffff;font-size: 12px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none } 
+a.nav_section:hover { color: #fef0b6;font-size: 12px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none }
+a.nav_section:active { color: #ffffff;font-size: 12px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:bold;text-decoration: none } 
+a.nav_section_active { color: #fef0b6;font-weight: bold;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+
+a.nav_subsection { color: #fef0b6;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+a.nav_subsection:link { color: #fef0b6;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+a.nav_subsection:visited { color: #fef0b6;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none } 
+a.nav_subsection:hover { color: #ffffff;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+a.nav_subsection:active { color: #fef0b6;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: none }
+
+a.nav_subsubsection { color: #ffffff;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:normal;text-decoration: none } 
+a.nav_subsubsection:link { color: #ffffff;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:normal;text-decoration: none } 
+a.nav_subsubsection:visited { color: #ffffff;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:normal;text-decoration: none } 
+a.nav_subsubsection:hover { color: #fef0b6;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:normal;text-decoration: none }
+a.nav_subsubsection:active { color: #ffffff;font-size: 11px;font-family: Verdana, Helvetica, Sans-Serif;font-weight:normal;text-decoration: none }
+
+a.bodytext_underline { color: #687fac;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: underline } 
+a.bodytextbold_underline { color: #355490;font-weight: bold;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: underline } 
+a.module_bodytext_underline { color: #355490;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: underline } 
+a.highlight_bodytext_underline { color: #a0070f;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;text-decoration: underline }
+a.anchor { text-decoration: none }
+
+#training_bureau_title { width:499px;BORDER-RIGHT: #9aa7c9 1px solid;BORDER-TOP: #9aa7c9 1px solid;BORDER-LEFT: #9aa7c9 1px solid;BORDER-BOTTOM: #9aa7c9 1px solid;BACKGROUND-IMAGE: url(http://www.nyc.gov/html/nypd/images/training_bureau/div_bg.gif);color: #000000;font-weight: bold;font-size: 14px;font-family: Verdana, Helvetica, Sans-Serif;TEXT-ALIGN: center;text-decoration: none }
+#training_bureau_area_header { color: #000000;font-weight: bold;font-size: 14px;font-family: Verdana, Helvetica, Sans-Serif;TEXT-ALIGN: center;text-decoration: none }
+#training_bureau_hr { CLEAR: both };
+#training_bureau_header { width:499px;BORDER-RIGHT: #9aa7c9 1px solid;BORDER-TOP: #9aa7c9 1px solid;BACKGROUND-IMAGE: url(http://www.nyc.gov/html/nypd/images/training_bureau/div_bg.gif);BORDER-LEFT: #9aa7c9 1px solid;BORDER-BOTTOM: #9aa7c9 1px solid;margin-left:auto;margin-right:auto;text-align:center;vertical-align:middle };
+#training_bureau_header img { vertical-align:middle }
+#training_bureau_subnav { width:499px;text-align:center }
+#training_bureau_subnav_item { width:166px;height:100px;padding:10px;float:left;BORDER-RIGHT: #9aa7c9 1px solid;BORDER-TOP: #9aa7c9 1px solid;BORDER-LEFT: #9aa7c9 1px solid;BORDER-BOTTOM: #9aa7c9 1px solid;}
+#training_bureau_subnav a:link, a:visited { font-size:14px;font-weight:bold;}
+#training_bureau_subnav a:hover { font-size:14px;font-weight:bold;}
+#training_bureau_subnav a:active { font-size:14px;font-weight:bold;}
+#training_bureau_content { BORDER-RIGHT: #9aa7c9 1px solid;PADDING-RIGHT: 10px;BORDER-TOP: #9aa7c9 1px solid;PADDING-LEFT: 10px;BACKGROUND-IMAGE: url(http://www.nyc.gov/html/nypd/images/training_bureau/div_bg_light.gif);PADDING-BOTTOM: 10px;BORDER-LEFT: #9aa7c9 1px solid;WIDTH: 499px;COLOR: #355490;PADDING-TOP: 10px;BORDER-BOTTOM: #9aa7c9 1px solid;TEXT-ALIGN: justify }
+
+
+a { color: #687fac;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;font-weight: normal;text-decoration: underline }
+a:link { color: #687fac;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;font-weight: normal;text-decoration: underline }
+a:visited { color: #687fac;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;font-weight: normal;text-decoration: underline }
+a:hover { color: #a0070f;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;font-weight: normal;text-decoration: none }
+a:active { color: #687fac;font-size: 11px;line-height: 15px;font-family: Verdana, Helvetica, Sans-Serif;font-weight: normal;text-decoration: underline }
+
+/* classes for BlogPreview */
+.title { clear:both }
+
+
+
+
+/**/.popup {visibility:hidden;border:2px solid #355490;z-index:20;position:absolute;top:185px;left:318px;background-color:#ffffff;}
+.popup_table{padding:14px 18px 20px 18px;}
+.buttons{text-align:right;padding-top:12px;}
+.popup_field{color:#000000;font-size:12px;line-height:15px;padding-top:4px;padding-bottom:5px;padding-left:8px;}
+.popup_label{background-color:#e7e7e7;color:#000000;font-size:12px;line-height:15px;padding-top:6px;padding-bottom:8px;padding-right:6px;text-align:right;}
+
+.shim{visibility: hidden;z-index:10;position:absolute;top:185px;left:318px;}
+
+.yellow_button{
+	background-color:#FFCC00;
+	border-width:1px;
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;
+	height:24px;
+}
+
+
+
+
